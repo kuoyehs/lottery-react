@@ -1,0 +1,10 @@
+readme
+把package.json中的
+"solc": "^0.4.17",改成與Lottery.sol開頭一樣
+
+Attempting to deploy from account 0xC1bf8a5881834372E14366B979b2195cb5CEF124
+Contract deployed to 0x9F0adaA5655045A1FE8d964698CE7EcF0079bdB1
+
+
+Attempting to deploy from account 0xC1bf8a5881834372E14366B979b2195cb5CEF124
+Contract deployed to 0xA0944eCF520144b219E75bC05c3eb3ca4458A8EB
